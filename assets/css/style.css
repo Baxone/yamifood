@@ -6,3 +6,5 @@
 @import url(variables.css);
 @import url(layout.css);
 @import url(header.css);
+/* la mediasquerys.css tiene que ser siempre el ultimo css importado */
+@import url(mediquerys.css);
