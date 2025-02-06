@@ -19,4 +19,8 @@
     header nav ul a {
         padding: 10px 20px;
     }
+
+    #about .container {
+        flex-direction: row;
+    }
 }

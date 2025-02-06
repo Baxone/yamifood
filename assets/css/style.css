@@ -7,5 +7,6 @@
 @import url(layout.css);
 @import url(header.css);
 @import url(hero.css);
+@import url(main.css);
 /* la mediasquerys.css tiene que ser siempre el ultimo css importado */
 @import url(mediquerys.css);
