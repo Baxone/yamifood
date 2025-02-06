@@ -1,3 +1,4 @@
+/* inicio aboutus */
 main .secciones {
     margin: 3.75rem 0rem;
 
@@ -42,4 +43,28 @@ main .secciones {
     p {
         color: var(--text-color);
     }
+}
+
+/* inicio calltoaction */
+
+#calltoaction {
+    background-image: url('../images/qt-bg.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    padding: 5rem 0rem;
+    text-align: center;
+    color: white;
+
+    blockquote {
+        font-style: italic;
+        font-size: 150%;
+        font-family: var(--secondary-font);
+        margin-bottom: var(--gap);
+        line-height: 1.5rem;
+    }
+
+    author {
+        font-size: 120%;
+    }
+
 }
